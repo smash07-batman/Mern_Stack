@@ -6,15 +6,19 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/04/one-piece-zoro-s-10-best-moves-ranked-according-to-strength.jpg");
 }
 .signup-container {
-    background-color: #ffffff;
+    background-color: transparent;
+   
+    
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-width: 400px;
     width: 100%;
     text-align: center;
+
 }
 .signup-container h1 {
     color: #1da1f2;
@@ -38,4 +42,10 @@ body {
 }
 .signup-container button:hover {
     background-color: #0d8bd6;
+    margin-top: 10px;
+}
+.Link{
+    padding-right:20rem ;
+    
+    margin-bottom: 5rem;
 }
